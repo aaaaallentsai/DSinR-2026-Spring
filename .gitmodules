@@ -4,3 +4,6 @@
 [submodule "hw/hw2"]
 	path = hw/hw2
 	url = git@github.com:BU-MA415-Spring2026/hw2-aaaaallentsai.git
+[submodule "hw/hw3"]
+	path = hw/hw3
+	url = git@github.com:BU-MA415-Spring2026/hw3-aaaaallentsai.git
